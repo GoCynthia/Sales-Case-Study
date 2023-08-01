@@ -22,12 +22,16 @@ Things to note about this project.
 
 -  After importing the data, write your select all statement to know what your data looks like. Then clean the data.
 
+  
+
 1. Find out the Total Average Revenue per Customer and the Total Average Revenue per Product for the year 2017. (return values in 2 decimal places).
 
 | Avg_rev_per_customer 	| Avg_rev_per_product 	|
 |----------------------	|---------------------	|
 | 1057.73              	| 479.27              	|
 |                      	|                     	|
+
+
 
 
 2. Give a list of all products that generated revenue below the TAR_Product (Showing the least revenues first).
@@ -45,6 +49,8 @@ Things to note about this project.
 | OFF-BI-10003727 	| Avery Durable Slant Ring Binders With Label Holder                                                	| 2.51    	|
 
 
+
+
 2b. Find out the number of products that fall below the TAR/P under each category per region.
 
 | Region  	| Office_Supplies 	| Furniture 	| Technology 	|
@@ -56,11 +62,13 @@ Things to note about this project.
 
 
 
+
 3. Find out the Y-O-Y growth rate from 2014 – 2017. (Your answer should be rounded to 3 decimal places, and show the “%” sign).
 
 | YOY_2015 	| YOY_2016 	| YOY_2017 	|
 |----------	|----------	|----------	|
 | 1.926%   	| 27.508%  	| 19.558%  	|
+
 
 
 
@@ -72,6 +80,7 @@ Things to note about this project.
 | 2015 	| 164991.7 	| 142133    	| 139903.7 	| 119879.8  	| 71324.55  	| 63097.16   	| 103222.6    	| 91450.99     	|
 | 2014 	| 119992.2 	| 104710.9  	| 144206.3 	| 124315.3  	| 103284.8  	| 91592.85   	| 102899.9    	| 102471.4     	|
 | 2017 	| 213105.5 	| 179957.1  	| 249425.2 	| 206205.3  	| 121213.2  	| 112837.8   	| 147145.7    	| 139542.7     	|
+
 
 
 
@@ -95,6 +104,7 @@ Things to note about this project.
 
 
 
+
 6. Return a table that shows the total number of orders received on each day of the week for year 2014, 2015, 2016 
 and 2017
 
@@ -107,6 +117,7 @@ and 2017
 | Thursday    	| 50         	| 388        	| 479        	| 546        	|
 | Friday      	| 359        	| 393        	| 461        	| 605        	|
 | Saturday    	| 327        	| 335        	| 394        	| 599        	|
+
 
 
 
