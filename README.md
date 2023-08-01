@@ -1,5 +1,6 @@
 ## Cynthia's Sales-Case-Study
-An analysis on superstore sales
+# An analysis on superstore sales
+
 Things to note about this project.
 
 - The formula for calculating Total Average Revenue per Customer (product) is dividing the Total Revenue by the Total number of customers (products).
@@ -17,7 +18,7 @@ Things to note about this project.
 - The dataset used for this task is a superstore data retrieved from kaggle.com.
 
 
-That Being Said, Let's begin...
+# That Being Said, Let's begin...
 
 -  After importing the data, write your select all statement to know what your data looks like. Then clean the data.
 
@@ -42,17 +43,6 @@ That Being Said, Let's begin...
 | OFF-AP-10004655 	| Holmes Visible Mist Ultrasonic Humidifier with 2.3-Gallon Output per Day, Replacement Filter      	| 2.26    	|
 | OFF-LA-10002381 	| Avery 497                                                                                         	| 2.46    	|
 | OFF-BI-10003727 	| Avery Durable Slant Ring Binders With Label Holder                                                	| 2.51    	|
-| OFF-FA-10003472 	| Bagged Rubber Bands                                                                               	| 2.52    	|
-| TEC-AC-10003709 	| Maxell 4.7GB DVD-R 5/Pack                                                                         	| 2.57    	|
-| OFF-LA-10002368 	| Avery 479                                                                                         	| 2.61    	|
-| OFF-AP-10002906 	| Hoover Replacement Belt for Commercial Guardsman Heavy-Duty Upright Vacuum                        	| 2.66    	|
-| OFF-BI-10004528 	| Cardinal Poly Pocket Divider Pockets for Ring Binders                                             	| 2.69    	|
-| FUR-FU-10001852 	| Eldon Regeneration Recycled Desk Accessories, Smoke                                               	| 2.78    	|
-| OFF-BI-10004876 	| Wilson Jones Suede Grain Vinyl Binders                                                            	| 2.78    	|
-| OFF-BI-10000494 	| Acco Economy Flexible Poly Round Ring Binder                                                      	| 3.13    	|
-| OFF-LA-10001317 	| Avery 520                                                                                         	| 3.15    	|
-| OFF-BI-10000831 	| Storex Flexible Poly Binders with Double Pockets                                                  	| 3.17    	|
-| OFF-AR-10000462 	| Sanford Pocket Accent Highlighters                                                                	| 3.2     	|
 
 
 2b. Find out the number of products that fall below the TAR/P under each category per region.
@@ -120,7 +110,7 @@ and 2017
 
 
 
-Please take note of the following instructions:
+# Please take note of the following instructions:
 
 - The dataset you will be using is obtained from kaggle.com and contains information about a superstore.
 - To obtain the year values, extract the year from the "Ship_date" column.
