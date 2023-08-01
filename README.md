@@ -1,5 +1,5 @@
 #  **Cynthia's Sales-Case-Study** #
-# An analysis on superstore sales
+# *An analysis on superstore sales
 
 Things to note about this project.
 
@@ -18,7 +18,7 @@ Things to note about this project.
 - The dataset used for this task is a superstore data retrieved from kaggle.com.
 
 
-# That Being Said, Let's begin...
+#  *That Being Said, Let's begin...
 
 -  After importing the data, write your select all statement to know what your data looks like. Then clean the data.
 
