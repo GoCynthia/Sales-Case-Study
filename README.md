@@ -1,5 +1,5 @@
-#  **Sales-Case-Study** #
- My solution to https://github.com/AkDeAnalyst SQL Sales Challenge
+###  Sales-Case-Study
+ My solution to   <html> <a href="https://github.com/AkDeAnalyst">AkDeAnalyst</a> </html>SQL Sales Challenge
 
 Things to note about this project.
 
@@ -18,7 +18,7 @@ Things to note about this project.
 - The dataset used for this task is a superstore data retrieved from kaggle.com.
 
 
-#  That Being Said, Let's begin...
+####  That Being Said, Let's begin...
 
 -  After importing the data, write your select all statement to know what your data looks like. Then clean the data.
 
@@ -120,7 +120,7 @@ and 2017
 
 
 
-Please take note of the following instructions:
+#### Please take note of the following instructions:
 
 - The dataset you will be using is obtained from kaggle.com and contains information about a superstore.
 - To obtain the year values, extract the year from the "Ship_date" column.
